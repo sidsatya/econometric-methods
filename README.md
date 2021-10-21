@@ -5,3 +5,4 @@ A repository containing previous work and examples of methods used for econometr
 
 **List of Examples** 
 1. Bernoulli Sampling 
+2. Binscatter
