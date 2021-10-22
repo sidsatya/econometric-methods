@@ -6,3 +6,4 @@ A repository containing previous work and examples of methods/visualizations use
 **List of Examples** 
 1. Bernoulli Sampling 
 2. Binscatter
+3. Omitted Variable Bias
