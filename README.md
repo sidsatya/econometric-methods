@@ -9,8 +9,9 @@ A repository containing previous work and examples of methods/visualizations use
 1. Bernoulli Sampling 
 2. Binscatter
 3. Omitted Variable Bias
-4. Reweighting (in progress)
-5. Instrumental Variables (in progress) 
-6. Difference-in-Differences (in progress) 
-7. Regression Discontinuity (in progress) 
-8. Lasso and Ridge for Feature Selection (in progress) 
+4. Reweighting I 
+5. Reweighting II, logit and weights (in progress)
+6. Instrumental Variables (in progress) 
+7. Difference-in-Differences (in progress) 
+8. Regression Discontinuity (in progress) 
+9. Lasso and Ridge for Feature Selection (in progress) 
