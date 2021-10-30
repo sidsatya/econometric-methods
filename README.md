@@ -15,4 +15,4 @@ A repository containing previous work and examples of methods/visualizations use
 8. Difference-in-Differences (in progress) 
 9. Regression Discontinuity (in progress) 
 10. Lasso and Ridge for Feature Selection (in progress) 
-11. Ordinary Least Squares from scratch (in progress)
+11. Ordinary Least Squares (in progress)
