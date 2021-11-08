@@ -16,3 +16,4 @@ A repository containing previous work and examples of methods/visualizations use
 9. Regression Discontinuity (in progress) 
 10. Lasso and Ridge for Feature Selection (in progress) 
 11. Ordinary Least Squares (in progress)
+12. ARIMA/Forecasting (in progress) -- might break this up into several notebooks
