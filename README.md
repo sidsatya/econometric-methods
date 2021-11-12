@@ -8,13 +8,14 @@ A repository containing previous work and examples of methods/visualizations use
 1. Bernoulli Sampling 
 2. Binscatter
 3. Omitted Variable Bias
-4. Oaxaca Decomposition (in progress)
-5. Reweighting I 
-6. Reweighting II, logit and weights (in progress)
-7. Instrumental Variables (in progress) 
-8. Difference-in-Differences (in progress) 
-9. Regression Discontinuity (in progress) 
-10. Lasso and Ridge for Feature Selection (in progress) 
-11. Ordinary Least Squares (in progress)
-12. Weighted Least Squares (in progress) 
-13. ARIMA/Forecasting (in progress) -- might break this up into several notebooks
+4. Ordinary Least Squares (in progress)
+5. Autocorrelation, Heteroscedasticity and visualizing regressions (in progress) 
+6. Oaxaca Decomposition (in progress)
+7. Reweighting I 
+8. Reweighting II, logit and weights (in progress)
+9. Instrumental Variables (in progress) 
+10. Difference-in-Differences (in progress) 
+11. Regression Discontinuity (in progress) 
+12. Lasso and Ridge for Feature Selection (in progress) 
+13. Weighted Least Squares (in progress) 
+14. ARIMA/Forecasting (in progress) -- might break this up into several notebooks
